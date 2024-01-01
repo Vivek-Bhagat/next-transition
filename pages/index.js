@@ -1,7 +1,7 @@
 import Page from "@/components/page";
 import gsap from "gsap";
 import { useRef, useEffect } from "react";
-import Letterize from "letterizejs";
+// import Letterize from "letterizejs";
 export default function Home() {
   const aniref = useRef();
 
